@@ -1,0 +1,121 @@
+{
+  "item": {
+    "id": "com.komoridev.billiard",
+    "restype": "quick_app",
+    "name": "口袋台球",
+    "description": "适配 Xiaomi Vela 手环的台球游戏，支持八球、四球追分和练习，可双人或人机",
+    "preview": [
+      "media/billiard-cover.png",
+      "media/billiard-screenshot-1.png",
+      "media/billiard-screenshot-2.png",
+      "media/billiard-screenshot-3.png",
+      "media/billiard-screenshot-4.png",
+      "media/billiard-screenshot-5.png"
+    ],
+    "icon": "media/billiard-logo.png",
+    "cover": "media/billiard-cover.png",
+    "author": [
+      {
+        "name": "KomoriDev",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "官方 Q 群",
+      "url": "https://qm.qq.com/q/uLi8KYQALK",
+      "icon": "chats-circle"
+    }
+  ],
+  "downloads": {
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.billiard.release.1.0.0-xmb10nfc.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 Hello AstroBox"
+        }
+      ]
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.billiard.release.1.0.0-xmb10p.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 Hello AstroBox"
+        }
+      ]
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.billiard.release.1.0.0-xmb11.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 Hello AstroBox"
+        }
+      ]
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.billiard.release.1.0.0-xmb11nfc.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 Hello AstroBox"
+        }
+      ]
+    },
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.billiard.release.1.0.0-xmb9.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 Hello AstroBox"
+        }
+      ]
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.billiard.release.1.0.0-xmb9p.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 Hello AstroBox"
+        }
+      ]
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.billiard.release.1.0.0-xmb10.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 Hello AstroBox"
+        }
+      ]
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true,
+    "bundledResources": {
+      "required": [
+        {
+          "type": "plugin",
+          "name": "Kovela"
+        }
+      ]
+    }
+  }
+}
