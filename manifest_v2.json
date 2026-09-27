@@ -30,79 +30,107 @@
   ],
   "downloads": {
     "xmb10nfc": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.komoridev.billiard.release.1.0.0-xmb10nfc.rpk",
-      "versionCode": 1,
+      "version": "1.1.0",
+      "file_name": "downloads/com.komoridev.billiard.release.1.1.0-xmb10nfc.rpk",
+      "versionCode": 2,
       "updatelogs": [
         {
-          "version": "1.0.0",
+          "version": "1.0.0 · 2026-09-27",
           "content": "- 🎉 Hello AstroBox"
+        },
+        {
+          "version": "1.1.0 · 2026-09-27",
+          "content": "- ✨ 重做追分规则\n- ✨ 对局结束自动记战绩，新增战绩页（练习不记录）\n- 💄 图标全部换用 lucide\n- 💄 导航与开始按钮改圆环胶囊样式\n- 💄 帮助文案精简"
         }
       ]
     },
     "xmb10p": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.komoridev.billiard.release.1.0.0-xmb10p.rpk",
-      "versionCode": 1,
+      "version": "1.1.0",
+      "file_name": "downloads/com.komoridev.billiard.release.1.1.0-xmb10p.rpk",
+      "versionCode": 2,
       "updatelogs": [
         {
-          "version": "1.0.0",
+          "version": "1.0.0 · 2026-09-27",
           "content": "- 🎉 Hello AstroBox"
+        },
+        {
+          "version": "1.1.0 · 2026-09-27",
+          "content": "- ✨ 重做追分规则\n- ✨ 对局结束自动记战绩，新增战绩页（练习不记录）\n- 💄 图标全部换用 lucide\n- 💄 导航与开始按钮改圆环胶囊样式\n- 💄 帮助文案精简"
         }
       ]
     },
     "xmb11": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.komoridev.billiard.release.1.0.0-xmb11.rpk",
-      "versionCode": 1,
+      "version": "1.1.0",
+      "file_name": "downloads/com.komoridev.billiard.release.1.1.0-xmb11.rpk",
+      "versionCode": 2,
       "updatelogs": [
         {
-          "version": "1.0.0",
+          "version": "1.0.0 · 2026-09-27",
           "content": "- 🎉 Hello AstroBox"
+        },
+        {
+          "version": "1.1.0 · 2026-09-27",
+          "content": "- ✨ 重做追分规则\n- ✨ 对局结束自动记战绩，新增战绩页（练习不记录）\n- 💄 图标全部换用 lucide\n- 💄 导航与开始按钮改圆环胶囊样式\n- 💄 帮助文案精简"
         }
       ]
     },
     "xmb11nfc": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.komoridev.billiard.release.1.0.0-xmb11nfc.rpk",
-      "versionCode": 1,
+      "version": "1.1.0",
+      "file_name": "downloads/com.komoridev.billiard.release.1.1.0-xmb11nfc.rpk",
+      "versionCode": 2,
       "updatelogs": [
         {
-          "version": "1.0.0",
+          "version": "1.0.0 · 2026-09-27",
           "content": "- 🎉 Hello AstroBox"
+        },
+        {
+          "version": "1.1.0 · 2026-09-27",
+          "content": "- ✨ 重做追分规则\n- ✨ 对局结束自动记战绩，新增战绩页（练习不记录）\n- 💄 图标全部换用 lucide\n- 💄 导航与开始按钮改圆环胶囊样式\n- 💄 帮助文案精简"
         }
       ]
     },
     "xmb9": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.komoridev.billiard.release.1.0.0-xmb9.rpk",
-      "versionCode": 1,
+      "version": "1.1.0",
+      "file_name": "downloads/com.komoridev.billiard.release.1.1.0-xmb9.rpk",
+      "versionCode": 2,
       "updatelogs": [
         {
-          "version": "1.0.0",
+          "version": "1.0.0 · 2026-09-27",
           "content": "- 🎉 Hello AstroBox"
+        },
+        {
+          "version": "1.1.0 · 2026-09-27",
+          "content": "- ✨ 重做追分规则\n- ✨ 对局结束自动记战绩，新增战绩页（练习不记录）\n- 💄 图标全部换用 lucide\n- 💄 导航与开始按钮改圆环胶囊样式\n- 💄 帮助文案精简"
         }
       ]
     },
     "xmb9p": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.komoridev.billiard.release.1.0.0-xmb9p.rpk",
-      "versionCode": 1,
+      "version": "1.1.0",
+      "file_name": "downloads/com.komoridev.billiard.release.1.1.0-xmb9p.rpk",
+      "versionCode": 2,
       "updatelogs": [
         {
-          "version": "1.0.0",
+          "version": "1.0.0 · 2026-09-27",
           "content": "- 🎉 Hello AstroBox"
+        },
+        {
+          "version": "1.1.0 · 2026-09-27",
+          "content": "- ✨ 重做追分规则\n- ✨ 对局结束自动记战绩，新增战绩页（练习不记录）\n- 💄 图标全部换用 lucide\n- 💄 导航与开始按钮改圆环胶囊样式\n- 💄 帮助文案精简"
         }
       ]
     },
     "xmb10": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.komoridev.billiard.release.1.0.0-xmb10.rpk",
-      "versionCode": 1,
+      "version": "1.1.0",
+      "file_name": "downloads/com.komoridev.billiard.release.1.1.0-xmb10.rpk",
+      "versionCode": 2,
       "updatelogs": [
         {
-          "version": "1.0.0",
+          "version": "1.0.0 · 2026-09-27",
           "content": "- 🎉 Hello AstroBox"
+        },
+        {
+          "version": "1.1.0 · 2026-09-27",
+          "content": "- ✨ 重做追分规则\n- ✨ 对局结束自动记战绩，新增战绩页（练习不记录）\n- 💄 图标全部换用 lucide\n- 💄 导航与开始按钮改圆环胶囊样式\n- 💄 帮助文案精简"
         }
       ]
     }
