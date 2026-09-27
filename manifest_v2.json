@@ -136,7 +136,6 @@
     }
   },
   "ext": {
-    "enableAstroBoxCreatorFeatures": true,
     "bundledResources": {
       "required": [
         {
