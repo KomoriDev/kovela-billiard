@@ -3,7 +3,7 @@
     "id": "com.komoridev.billiard",
     "restype": "quick_app",
     "name": "口袋台球",
-    "description": "适配 Xiaomi Vela 手环的台球游戏，支持八球、四球追分和练习，可双人或人机",
+    "description": "口袋台球 | 随时随地，一杆进洞\n\n适配 Xiaomi Vela 设备的台球游戏，支持八球、四球追分和练习，可双人或人机",
     "preview": [
       "media/billiard-cover.png",
       "media/billiard-screenshot-1.png",
@@ -26,111 +26,315 @@
       "title": "官方 Q 群",
       "url": "https://qm.qq.com/q/uLi8KYQALK",
       "icon": "chats-circle"
+    },
+    {
+      "title": "爱发电",
+      "url": "https://afdian.com/item/034b2c98b83c11f1a14452540025c377?utm_source=copylink&utm_medium=link",
+      "icon": "link-simple"
     }
   ],
   "downloads": {
-    "xmb10nfc": {
-      "version": "1.1.0",
-      "file_name": "downloads/com.komoridev.billiard.release.1.1.0-xmb10nfc.rpk",
-      "versionCode": 2,
+    "xmb10": {
+      "version": "1.2.0",
+      "file_name": "downloads/com.komoridev.billiard.release.1.2.0.rpk",
+      "versionCode": 3,
       "updatelogs": [
         {
-          "version": "1.0.0 · 2026-09-27",
-          "content": "- 🎉 Hello AstroBox"
+          "version": "1.2.0",
+          "content": "- 📱 适配更多设备\n- 🐛 修复追分模式中人机开球必进定律"
         },
         {
           "version": "1.1.0 · 2026-09-27",
           "content": "- ✨ 重做追分规则\n- ✨ 对局结束自动记战绩，新增战绩页（练习不记录）\n- 💄 图标全部换用 lucide\n- 💄 导航与开始按钮改圆环胶囊样式\n- 💄 帮助文案精简"
+        },
+        {
+          "version": "1.0.0 · 2026-09-27",
+          "content": "- 🎉 Hello AstroBox"
+        }
+      ]
+    },
+    "xmb10nfc": {
+      "version": "1.2.0",
+      "file_name": "downloads/com.komoridev.billiard.release.1.2.0.rpk",
+      "versionCode": 3,
+      "updatelogs": [
+        {
+          "version": "1.2.0",
+          "content": "- 📱 适配更多设备\n- 🐛 修复追分模式中人机开球必进定律"
+        },
+        {
+          "version": "1.1.0 · 2026-09-27",
+          "content": "- ✨ 重做追分规则\n- ✨ 对局结束自动记战绩，新增战绩页（练习不记录）\n- 💄 图标全部换用 lucide\n- 💄 导航与开始按钮改圆环胶囊样式\n- 💄 帮助文案精简"
+        },
+        {
+          "version": "1.0.0 · 2026-09-27",
+          "content": "- 🎉 Hello AstroBox"
         }
       ]
     },
     "xmb10p": {
-      "version": "1.1.0",
-      "file_name": "downloads/com.komoridev.billiard.release.1.1.0-xmb10p.rpk",
-      "versionCode": 2,
+      "version": "1.2.0",
+      "file_name": "downloads/com.komoridev.billiard.release.1.2.0.rpk",
+      "versionCode": 3,
       "updatelogs": [
         {
-          "version": "1.0.0 · 2026-09-27",
-          "content": "- 🎉 Hello AstroBox"
+          "version": "1.2.0",
+          "content": "- 📱 适配更多设备\n- 🐛 修复追分模式中人机开球必进定律"
         },
         {
           "version": "1.1.0 · 2026-09-27",
           "content": "- ✨ 重做追分规则\n- ✨ 对局结束自动记战绩，新增战绩页（练习不记录）\n- 💄 图标全部换用 lucide\n- 💄 导航与开始按钮改圆环胶囊样式\n- 💄 帮助文案精简"
+        },
+        {
+          "version": "1.0.0 · 2026-09-27",
+          "content": "- 🎉 Hello AstroBox"
         }
       ]
     },
     "xmb11": {
-      "version": "1.1.0",
-      "file_name": "downloads/com.komoridev.billiard.release.1.1.0-xmb11.rpk",
-      "versionCode": 2,
+      "version": "1.2.0",
+      "file_name": "downloads/com.komoridev.billiard.release.1.2.0.rpk",
+      "versionCode": 3,
       "updatelogs": [
         {
-          "version": "1.0.0 · 2026-09-27",
-          "content": "- 🎉 Hello AstroBox"
+          "version": "1.2.0",
+          "content": "- 📱 适配更多设备\n- 🐛 修复追分模式中人机开球必进定律"
         },
         {
           "version": "1.1.0 · 2026-09-27",
           "content": "- ✨ 重做追分规则\n- ✨ 对局结束自动记战绩，新增战绩页（练习不记录）\n- 💄 图标全部换用 lucide\n- 💄 导航与开始按钮改圆环胶囊样式\n- 💄 帮助文案精简"
+        },
+        {
+          "version": "1.0.0 · 2026-09-27",
+          "content": "- 🎉 Hello AstroBox"
         }
       ]
     },
     "xmb11nfc": {
-      "version": "1.1.0",
-      "file_name": "downloads/com.komoridev.billiard.release.1.1.0-xmb11nfc.rpk",
-      "versionCode": 2,
+      "version": "1.2.0",
+      "file_name": "downloads/com.komoridev.billiard.release.1.2.0.rpk",
+      "versionCode": 3,
       "updatelogs": [
         {
-          "version": "1.0.0 · 2026-09-27",
-          "content": "- 🎉 Hello AstroBox"
+          "version": "1.2.0",
+          "content": "- 📱 适配更多设备\n- 🐛 修复追分模式中人机开球必进定律"
         },
         {
           "version": "1.1.0 · 2026-09-27",
           "content": "- ✨ 重做追分规则\n- ✨ 对局结束自动记战绩，新增战绩页（练习不记录）\n- 💄 图标全部换用 lucide\n- 💄 导航与开始按钮改圆环胶囊样式\n- 💄 帮助文案精简"
+        },
+        {
+          "version": "1.0.0 · 2026-09-27",
+          "content": "- 🎉 Hello AstroBox"
         }
       ]
     },
     "xmb9": {
-      "version": "1.1.0",
-      "file_name": "downloads/com.komoridev.billiard.release.1.1.0-xmb9.rpk",
-      "versionCode": 2,
+      "version": "1.2.0",
+      "file_name": "downloads/com.komoridev.billiard.release.1.2.0.rpk",
+      "versionCode": 3,
       "updatelogs": [
         {
-          "version": "1.0.0 · 2026-09-27",
-          "content": "- 🎉 Hello AstroBox"
+          "version": "1.2.0",
+          "content": "- 📱 适配更多设备\n- 🐛 修复追分模式中人机开球必进定律"
         },
         {
           "version": "1.1.0 · 2026-09-27",
           "content": "- ✨ 重做追分规则\n- ✨ 对局结束自动记战绩，新增战绩页（练习不记录）\n- 💄 图标全部换用 lucide\n- 💄 导航与开始按钮改圆环胶囊样式\n- 💄 帮助文案精简"
+        },
+        {
+          "version": "1.0.0 · 2026-09-27",
+          "content": "- 🎉 Hello AstroBox"
         }
       ]
     },
     "xmb9p": {
-      "version": "1.1.0",
-      "file_name": "downloads/com.komoridev.billiard.release.1.1.0-xmb9p.rpk",
-      "versionCode": 2,
+      "version": "1.2.0",
+      "file_name": "downloads/com.komoridev.billiard.release.1.2.0.rpk",
+      "versionCode": 3,
       "updatelogs": [
         {
-          "version": "1.0.0 · 2026-09-27",
-          "content": "- 🎉 Hello AstroBox"
+          "version": "1.2.0",
+          "content": "- 📱 适配更多设备\n- 🐛 修复追分模式中人机开球必进定律"
         },
         {
           "version": "1.1.0 · 2026-09-27",
           "content": "- ✨ 重做追分规则\n- ✨ 对局结束自动记战绩，新增战绩页（练习不记录）\n- 💄 图标全部换用 lucide\n- 💄 导航与开始按钮改圆环胶囊样式\n- 💄 帮助文案精简"
+        },
+        {
+          "version": "1.0.0 · 2026-09-27",
+          "content": "- 🎉 Hello AstroBox"
         }
       ]
     },
-    "xmb10": {
-      "version": "1.1.0",
-      "file_name": "downloads/com.komoridev.billiard.release.1.1.0-xmb10.rpk",
-      "versionCode": 2,
+    "xmws3": {
+      "version": "1.2.0",
+      "file_name": "downloads/com.komoridev.billiard.release.1.2.0.rpk",
+      "versionCode": 3,
       "updatelogs": [
         {
-          "version": "1.0.0 · 2026-09-27",
-          "content": "- 🎉 Hello AstroBox"
+          "version": "1.2.0",
+          "content": "- 📱 适配更多设备\n- 🐛 修复追分模式中人机开球必进定律"
         },
         {
           "version": "1.1.0 · 2026-09-27",
           "content": "- ✨ 重做追分规则\n- ✨ 对局结束自动记战绩，新增战绩页（练习不记录）\n- 💄 图标全部换用 lucide\n- 💄 导航与开始按钮改圆环胶囊样式\n- 💄 帮助文案精简"
+        },
+        {
+          "version": "1.0.0 · 2026-09-27",
+          "content": "- 🎉 Hello AstroBox"
+        }
+      ]
+    },
+    "xmws4xring": {
+      "version": "1.2.0",
+      "file_name": "downloads/com.komoridev.billiard.release.1.2.0.rpk",
+      "versionCode": 3,
+      "updatelogs": [
+        {
+          "version": "1.2.0",
+          "content": "- 📱 适配更多设备\n- 🐛 修复追分模式中人机开球必进定律"
+        },
+        {
+          "version": "1.1.0 · 2026-09-27",
+          "content": "- ✨ 重做追分规则\n- ✨ 对局结束自动记战绩，新增战绩页（练习不记录）\n- 💄 图标全部换用 lucide\n- 💄 导航与开始按钮改圆环胶囊样式\n- 💄 帮助文案精简"
+        },
+        {
+          "version": "1.0.0 · 2026-09-27",
+          "content": "- 🎉 Hello AstroBox"
+        }
+      ]
+    },
+    "xmws441": {
+      "version": "1.2.0",
+      "file_name": "downloads/com.komoridev.billiard.release.1.2.0.rpk",
+      "versionCode": 3,
+      "updatelogs": [
+        {
+          "version": "1.2.0",
+          "content": "- 📱 适配更多设备\n- 🐛 修复追分模式中人机开球必进定律"
+        },
+        {
+          "version": "1.1.0 · 2026-09-27",
+          "content": "- ✨ 重做追分规则\n- ✨ 对局结束自动记战绩，新增战绩页（练习不记录）\n- 💄 图标全部换用 lucide\n- 💄 导航与开始按钮改圆环胶囊样式\n- 💄 帮助文案精简"
+        },
+        {
+          "version": "1.0.0 · 2026-09-27",
+          "content": "- 🎉 Hello AstroBox"
+        }
+      ]
+    },
+    "xmws4": {
+      "version": "1.2.0",
+      "file_name": "downloads/com.komoridev.billiard.release.1.2.0.rpk",
+      "versionCode": 3,
+      "updatelogs": [
+        {
+          "version": "1.2.0",
+          "content": "- 📱 适配更多设备\n- 🐛 修复追分模式中人机开球必进定律"
+        },
+        {
+          "version": "1.1.0 · 2026-09-27",
+          "content": "- ✨ 重做追分规则\n- ✨ 对局结束自动记战绩，新增战绩页（练习不记录）\n- 💄 图标全部换用 lucide\n- 💄 导航与开始按钮改圆环胶囊样式\n- 💄 帮助文案精简"
+        },
+        {
+          "version": "1.0.0 · 2026-09-27",
+          "content": "- 🎉 Hello AstroBox"
+        }
+      ]
+    },
+    "xmws541": {
+      "version": "1.2.0",
+      "file_name": "downloads/com.komoridev.billiard.release.1.2.0.rpk",
+      "versionCode": 3,
+      "updatelogs": [
+        {
+          "version": "1.2.0",
+          "content": "- 📱 适配更多设备\n- 🐛 修复追分模式中人机开球必进定律"
+        },
+        {
+          "version": "1.1.0 · 2026-09-27",
+          "content": "- ✨ 重做追分规则\n- ✨ 对局结束自动记战绩，新增战绩页（练习不记录）\n- 💄 图标全部换用 lucide\n- 💄 导航与开始按钮改圆环胶囊样式\n- 💄 帮助文案精简"
+        },
+        {
+          "version": "1.0.0 · 2026-09-27",
+          "content": "- 🎉 Hello AstroBox"
+        }
+      ]
+    },
+    "xmws5": {
+      "version": "1.2.0",
+      "file_name": "downloads/com.komoridev.billiard.release.1.2.0.rpk",
+      "versionCode": 3,
+      "updatelogs": [
+        {
+          "version": "1.2.0",
+          "content": "- 📱 适配更多设备\n- 🐛 修复追分模式中人机开球必进定律"
+        },
+        {
+          "version": "1.1.0 · 2026-09-27",
+          "content": "- ✨ 重做追分规则\n- ✨ 对局结束自动记战绩，新增战绩页（练习不记录）\n- 💄 图标全部换用 lucide\n- 💄 导航与开始按钮改圆环胶囊样式\n- 💄 帮助文案精简"
+        },
+        {
+          "version": "1.0.0 · 2026-09-27",
+          "content": "- 🎉 Hello AstroBox"
+        }
+      ]
+    },
+    "xmrw5": {
+      "version": "1.2.0",
+      "file_name": "downloads/com.komoridev.billiard.release.1.2.0.rpk",
+      "versionCode": 3,
+      "updatelogs": [
+        {
+          "version": "1.2.0",
+          "content": "- 📱 适配更多设备\n- 🐛 修复追分模式中人机开球必进定律"
+        },
+        {
+          "version": "1.1.0 · 2026-09-27",
+          "content": "- ✨ 重做追分规则\n- ✨ 对局结束自动记战绩，新增战绩页（练习不记录）\n- 💄 图标全部换用 lucide\n- 💄 导航与开始按钮改圆环胶囊样式\n- 💄 帮助文案精简"
+        },
+        {
+          "version": "1.0.0 · 2026-09-27",
+          "content": "- 🎉 Hello AstroBox"
+        }
+      ]
+    },
+    "xmrw5xring": {
+      "version": "1.2.0",
+      "file_name": "downloads/com.komoridev.billiard.release.1.2.0.rpk",
+      "versionCode": 3,
+      "updatelogs": [
+        {
+          "version": "1.2.0",
+          "content": "- 📱 适配更多设备\n- 🐛 修复追分模式中人机开球必进定律"
+        },
+        {
+          "version": "1.1.0 · 2026-09-27",
+          "content": "- ✨ 重做追分规则\n- ✨ 对局结束自动记战绩，新增战绩页（练习不记录）\n- 💄 图标全部换用 lucide\n- 💄 导航与开始按钮改圆环胶囊样式\n- 💄 帮助文案精简"
+        },
+        {
+          "version": "1.0.0 · 2026-09-27",
+          "content": "- 🎉 Hello AstroBox"
+        }
+      ]
+    },
+    "xmrw6": {
+      "version": "1.2.0",
+      "file_name": "downloads/com.komoridev.billiard.release.1.2.0.rpk",
+      "versionCode": 3,
+      "updatelogs": [
+        {
+          "version": "1.2.0",
+          "content": "- 📱 适配更多设备\n- 🐛 修复追分模式中人机开球必进定律"
+        },
+        {
+          "version": "1.1.0 · 2026-09-27",
+          "content": "- ✨ 重做追分规则\n- ✨ 对局结束自动记战绩，新增战绩页（练习不记录）\n- 💄 图标全部换用 lucide\n- 💄 导航与开始按钮改圆环胶囊样式\n- 💄 帮助文案精简"
+        },
+        {
+          "version": "1.0.0 · 2026-09-27",
+          "content": "- 🎉 Hello AstroBox"
         }
       ]
     }
@@ -140,7 +344,7 @@
       "required": [
         {
           "type": "plugin",
-          "name": "Kovela"
+          "id": "Kovela"
         }
       ]
     }
